@@ -1,11 +1,12 @@
 # Full-Stack Web Developer
 ## About Me
 
-I'm Adrián Ramírez, a passionate Full-Stack Web Developer specializing in the MERN stack. I'm from Spain, Valencia
+I'm Adrián Ramírez, a passionate Full-Stack Web Developer specializing in the MERN stack. I'm from Spain, Valencia.
 
 ## My Journey
 
-My love for technology and its boundless potential led me into the world of web development. I've always been driven to create meaningful and interactive web experiences. Me encanta aprender nuevos lenguajes de programación.
+My love for technology and its boundless potential led me into the world of web development. I've always been driven to create meaningful and interactive web experiences.
+
 ## Expertise
 
 I've had the privilege of working on a wide range of projects. I excel in technologies like:
@@ -23,5 +24,5 @@ I'm excited about the future of web development and the endless opportunities it
 
 Connect with me on [LinkedIn](www.linkedin.com/in/adrián-ramírez-galera)!
 
-Check a github on [Octoprofile](https://octoprofile.vercel.app/user?id=AdrianRgGit)
+Check a summary on [Octoprofile](https://octoprofile.vercel.app/user?id=AdrianRgGit).
 
