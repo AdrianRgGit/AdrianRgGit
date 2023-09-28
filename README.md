@@ -1,4 +1,4 @@
-# Full-Stack Web Develope
+# Full-Stack Web Developer
 ## About Me
 
 I'm Adrián Ramírez, a passionate Full-Stack Web Developer specializing in the MERN stack. I'm from Spain, Valencia
