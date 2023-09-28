@@ -23,5 +23,5 @@ I'm excited about the future of web development and the endless opportunities it
 
 Connect with me on [LinkedIn](www.linkedin.com/in/adrián-ramírez-galera)!
 
-Check a github summary on [Octoprofile](https://octoprofile.vercel.app/user?id=AdrianRgGit)
+Check a github on [Octoprofile](https://octoprofile.vercel.app/user?id=AdrianRgGit)
 
