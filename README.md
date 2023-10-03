@@ -22,7 +22,7 @@ I've had the privilege of working on a wide range of projects. I excel in techno
 
 I'm excited about the future of web development and the endless opportunities it holds. Whether it's collaborating on exciting projects or continually expanding my skill set, I'm always eager to embrace new challenges and contribute to the ever-growing digital world.
 
-Connect with me on [LinkedIn](www.linkedin.com/in/adrián-ramírez-galera)!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/adrian-ramirez-galera/)!
 
 Check a summary on [Octoprofile](https://octoprofile.vercel.app/user?id=AdrianRgGit).
 
