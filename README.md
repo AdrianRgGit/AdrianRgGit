@@ -7,7 +7,7 @@ I'm Adrián Ramírez, a passionate Full-Stack Web Developer specializing in the 
 
 My love for technology and its boundless potential led me into the world of web development. I've always been driven to create meaningful and interactive web experiences.
 
-## Expertise
+## Knowledge
 
 I've had the privilege of working on a wide range of projects. I excel in technologies like:
 
