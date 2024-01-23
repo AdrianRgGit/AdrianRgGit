@@ -9,14 +9,27 @@ My love for technology and its boundless potential led me into the world of web 
 
 ## Knowledge
 
-I've had the privilege of working on a wide range of projects. I excel in technologies like:
+I have had the privilege of working on a wide range of technologies such as:
 
+### FrontEnd
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SASS
 - React
-- Node.js
+- NextJS
+- Tailwind
+- AstroJS
+
+### BackEnd
+- Python
+- Django
+- NodeJS
+- MYSQL
+- PostgreSQL
+- SQLite
 - MongoDB
-- MySQL
-- Mongoose
-- Express.js
 
 ## Future Endeavors
 
