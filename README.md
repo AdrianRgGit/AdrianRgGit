@@ -21,6 +21,7 @@ I have had the privilege of working on a wide range of technologies such as:
 - NextJS
 - Tailwind
 - AstroJS
+- Angular
 
 ### BackEnd
 - Python
